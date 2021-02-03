@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         PupilPath Capitalized Names
-// @version      1.0
+// @version      1.1
 // @description  Capitalizes course names and instructor names on PupilPath dashboard
 // @match        https://pupilpath.skedula.com/home/dashboard/
+// @match        https://pupilpath.skedula.com/Home/Dashboard/
+// @match        https://pupilpath.skedula.com/Assignments/
 // @grant        none
 // ==/UserScript==
 
