@@ -5,6 +5,9 @@
 // @match        https://pupilpath.com/home/dashboard/
 // @match        https://pupilpath.com/Home/Dashboard/
 // @match        https://pupilpath.com/Assignments/
+// @match        https://pupilpath.skedula.com/home/dashboard/
+// @match        https://pupilpath.skedula.com/Home/Dashboard/
+// @match        https://pupilpath.skedula.com/Assignments/
 // @grant        none
 // ==/UserScript==
 
